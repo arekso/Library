@@ -1,0 +1,27 @@
+h1{
+    font-family: cursive ;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    text-shadow: 3px 3px rgb(0, 0, 0);
+}
+
+#bookForm{
+    text-align: center;
+    widows: 0px;
+    padding: 15px;
+    margin: 150px;
+    border: 15px solid rgb(209, 235, 115);
+    background-color: rgb(172, 81, 81);
+    box-shadow: 3px 3px 3px 1px black;    
+}
+.bookForm{
+    flex-wrap: inherit;
+}
+
+body{
+background: url("pexels-ksenia-chernaya-3952078.jpg");
+background-size: cover;
+background-color: rgb(255, 255, 255);
+}
+
